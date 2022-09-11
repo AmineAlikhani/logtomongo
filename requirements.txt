@@ -1,0 +1,6 @@
+dnspython
+pymongo
+pandas
+pyodbc
+user_agents
+aiohttp
